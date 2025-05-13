@@ -1,2 +1,2 @@
-# llm-
+# llm-traffic probe
 基于Go 的高并发特性流量探针， 能够监听 MCP/HTTP2 等协议，分析并转存 LLM 调用请求与响应等
