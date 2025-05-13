@@ -3,8 +3,10 @@
 
 # demo
 运行
-```go run  main.go mcp_parser.go detector.go
 ```
+go run  main.go mcp_parser.go detector.go
+```
+
 
 再用curl发送一条调用 delete_user 的 MCP 请求：
 ```
